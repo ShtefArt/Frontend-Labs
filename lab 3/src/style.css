@@ -1,0 +1,66 @@
+.post{
+	border-color: black;
+	border-width: 1px;
+	border-style: solid;
+	padding: 0;
+	width: 50vw;
+	margin: 0 auto;
+	margin-bottom: 20px;
+	border-radius: 0.5em;
+}
+.side{
+	margin-left: 85%;
+}
+
+.deleteBtn{
+	background-color: rgb(243, 67, 67);
+	margin-left: 95%;
+}
+.deleteBtn:hover{
+	background-color: rgba(243, 67, 67, 0.555);
+}
+
+.inputForm{
+	margin: 0 auto;
+	padding-bottom: 30px;
+	width: 50vw;
+	display: flex;
+	margin-bottom: 20px;
+	margin-top: 30px;
+
+}
+
+.add-btn{
+	background-color: rgb(89, 110, 228);
+	color: white;
+}
+
+.add-btn:hover{
+	background-color: rgb(52, 73, 196);
+}
+
+.center{
+	margin: 0 auto;
+}
+
+
+.content{
+	margin: 20px;
+}
+
+textarea{
+	border-radius: 0.3em;
+}
+
+input{
+	border-radius: 0.3em;
+	border-style: solid;
+}
+
+textarea, input, button {
+	margin: 5px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+	box-sizing: border-box;
+	
+}
